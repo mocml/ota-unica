@@ -1,6 +1,6 @@
 {
   "version":5,
-  "downloadAndroidUrl":"https://mocml.github.io/ota-unica/android/1.0.0v7.zip",
-  "downloadIosUrl":"https://mocml.github.io/ota-unica/ios/1.0.0v1.zip",
+  "downloadAndroidUrl":"https://mocml.github.io/ota-unica/android/1.0.0v7.zipstop",
+  "downloadIosUrl":"https://mocml.github.io/ota-unica/ios/1.0.0v1.zipstop",
   "NOTE":"ReactNative >= 0.77 thì setup lại IOS"
 }
